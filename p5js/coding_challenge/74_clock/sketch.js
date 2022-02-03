@@ -1,3 +1,5 @@
+// https://www.youtube.com/watch?v=E4RyStef-gY&list=RDCMUCvjgXvBlbQiydffZU7m1_aw&index=2
+
 function setup() {
   let w = window.innerWidth > 0 ? window.innerWidth : screen.width;
   let h = window.innerHeight > 0 ? window.innerHeight : screen.height;
