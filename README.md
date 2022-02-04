@@ -17,5 +17,6 @@ npm install -g browser-sync
 Run (from the respective the directory):
 
 ```bash
+cd p5js
 browser-sync start -s -f . --no-notify --host 0.0.0.0 --port 9000
 ```
