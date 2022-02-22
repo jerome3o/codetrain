@@ -1,3 +1,11 @@
-{
-  "include": ["libs/*"]
+{    
+  "compilerOptions": {
+    "target": "es5",
+    "module": "commonjs"
+  },
+  "include": [
+    "*.js",
+    "libs/*",
+    "*/**/*.js",
+  ]
 }

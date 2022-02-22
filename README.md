@@ -11,7 +11,7 @@ Any of the left folders in the p5js tree can be statically served. BrowserSync a
 Install:
 
 ```bash
-npm install -g browser-sync
+sudo npm install -g browser-sync
 ```
 
 Run (from the respective the directory):
